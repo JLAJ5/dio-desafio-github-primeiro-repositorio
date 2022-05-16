@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO.ME
-Repositório criado para completar o Desafio de Projeto da DIO.ME
+Repositório criado para completar o Desafio de Projeto do Bootcamp Full Stack da TQI
 
 ## Link Úteis
 
